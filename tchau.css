@@ -1,0 +1,73 @@
+
+body {
+    background-color: #050505;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.despedida {
+    width: 70%;
+    margin: 150px auto;
+    padding: 50px;
+    background-color: #111111;
+    border: 2px solid #ff0000;
+    border-radius: 15px;
+    box-shadow: 0 0 25px #ff0000;
+}
+
+h1 {
+    color: #ff0000;
+    font-size: 55px;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+}
+
+.linha {
+    width: 120px;
+    height: 4px;
+    background-color: #ff0000;
+    margin: 20px auto 35px;
+}
+
+p {
+    font-size: 19px;
+    line-height: 1.6;
+    color: #dddddd;
+}
+
+.principal {
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+}
+
+.final {
+    color: #ff0000;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.voltar {
+    display: inline-block;
+    margin-top: 25px;
+    padding: 14px 30px;
+    background-color: #ff0000;
+    color: white;
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.voltar:hover {
+    background-color: #58fc00;
+    color: black;
+}
+
+.tenor-gif-embed {
+    width: 250px;
+    margin: 20px auto;
+}

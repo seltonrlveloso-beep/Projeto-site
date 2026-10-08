@@ -1,0 +1,69 @@
+.titulo{
+text-align:center;
+background-color: blue;
+    color: #00ff66;
+padding: 5px;
+}
+
+
+.titulo1{
+    text-align: center;
+   color: #00ff66;
+   background-color: black;
+   display: flex}
+    
+
+.img{
+ width: 500px;
+ float: right;
+    
+}
+.barcelona {
+    color: rgb(12, 243, 0);
+    background-color: rgb(0, 0, 0);
+  
+}
+.final-70{
+color: #00ff66;
+background-color: black;
+}
+ a{
+    font-size: 30px;
+
+
+}
+.voltar {
+    display: inline-block;
+    background-color: #000000;
+    color: white;
+    padding: 10px 20px;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.voltar:hover {
+    background-color: #ff0000;
+}
+.rodape {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    margin-top: auto;
+}
+
+.rodape h3 {
+    color: #00a8ff;
+}
+
+.rodape p {
+    margin: 8px;
+}
+
+.direitos {
+    color: #aaa;
+    font-size: 14px;
+}
